@@ -1,5 +1,5 @@
 # API Portfolio Project
-This project demonstrates API coding best practices using Python and __FastAPI.
+This project demonstrates API coding best practices using Python and _FastAPI.
 
 This project was built from examples from the book 
  [Hands-On APIs For API and Data Science](https://handsonapibook.com/).
